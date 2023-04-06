@@ -1,1 +1,1 @@
-Bu repoyu YetGen Core Python eğitim programı boyunca ödevlerimi yüklemek için kullanıyorum.
+*Bu repoyu YetGen Core Python eğitim programı boyunca ödevlerimi yüklemek için kullanıyorum.*
