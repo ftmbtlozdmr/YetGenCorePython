@@ -1,6 +1,9 @@
 *Bu repoyu YetGen Core Python eğitim programı boyunca ödevlerimi yüklemek için kullanacağım.🚀*
+
 #1.hafta içerikleri => 
+
 Kodlama ve Python'a Giriş
+
 Python ve Visual Studio Code Kurulumu
 Git Nedir ve Kurulumu
 GitHub Nedir, Hesap Oluşturma ve Kavramlar
