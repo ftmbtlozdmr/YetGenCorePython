@@ -38,3 +38,14 @@ Global ve Yerel Değişkenler , Lambda Gösterimi
 Modüller ve Math Modülü
 Gömülü Fonksiyonlar
 Hata Yönetimi
+
+**7.hafta içerikleri =>**
+
+Tekrar haftası
+
+**8.hafta içerikleri =>**
+
+Dosya İşlemleri 1
+Dosya İşlemleri 2
+Nesne Yönelimli Programlama 1
+
