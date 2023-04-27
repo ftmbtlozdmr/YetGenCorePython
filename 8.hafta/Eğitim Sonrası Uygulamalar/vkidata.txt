@@ -1,0 +1,12 @@
+kullanýcý adý Fatma Betül Özdemir
+kullanýcýnýn yaþ,kilo,boy bilgisi 20,49.0,1.59
+kullanýcýnýn vücut kitle indexi 19.4
+deðer aralýðý Normal kilolu
+oluþturma tarihi: Thu Apr 27 11:09:15 2023
+********************
+kullanýcý adý ....
+kullanýcýnýn yaþ,kilo,boy bilgisi 18,50.0,1.75
+kullanýcýnýn vücut kitle indexi 16.3
+deðer aralýðý zayýf
+oluþturma tarihi: Thu Apr 27 11:09:43 2023
+********************
