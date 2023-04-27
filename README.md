@@ -49,3 +49,17 @@ Dosya İşlemleri 1
 Dosya İşlemleri 2
 Nesne Yönelimli Programlama 1
 
+**9.hafta içerikleri =>**
+
+Nesne Yönelimli Programlama Method Kullanımı
+Inheritance
+
+**10.hafta içerikleri =>**
+
+Numpy Nedir ve Neden Numpy Kullanıyoruz?
+Temel Numpy Özellikleri
+Numpy Detayları
+
+**11.hafta içerikleri =>**
+
+
