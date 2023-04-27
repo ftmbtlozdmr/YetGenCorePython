@@ -2,7 +2,7 @@
 
 **1.hafta içerikleri =>**
 
-Kodlama ve Python'a Giriş
+Kodlama ve Python'a Giriş\n
 Python ve Visual Studio Code Kurulumu
 Git Nedir ve Kurulumu
 GitHub Nedir, Hesap Oluşturma ve Kavramlar
